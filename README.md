@@ -13,10 +13,9 @@ _This SQL project dynamically generates a synthetic dataset of 20 million clinic
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
-- <a href="#data-profiling & EDA">Data profiling & EDA</a>
+- <a href="#data-profiling-EDA">Data profiling & EDA</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
@@ -68,7 +67,7 @@ clinical-data-Analysis/
 ```
 
 ---
-<h2><a class="anchor" id="data-profiling & EDA "></a>Data profiling & EDA </h2>
+<h2><a class="anchor" id="#data-profiling-EDA"></a>Data profiling & EDA </h2>
 
 Performed Data profiling & executed EDA pipeline natively within SSMS
 
