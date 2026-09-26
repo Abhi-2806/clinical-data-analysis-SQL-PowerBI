@@ -101,7 +101,8 @@ Performed Data profiling & executed EDA pipeline natively within SSMS
         - Number of Death by Hospital Id
 
 
-![clinical data Analysis Dashboard]()
+![clinical data Analysis Dashboard-1](analysis-by-year.png)
+![clinical data Analysis Dashboard-2](hospital-analysis.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -112,17 +113,17 @@ git clone https://github.com/Abhi-2806/clinical-data-analysis-SQL-PowerBI.git
 ```
 2. create data using SQL:
 ```bash
-python scripts/ingestion_db.py
+data-creation-20million.sql
 ```
 3. Data Profiling of the data created:
 ```bash
-python scripts/get_vendor_summary.py
+SQLQuery1(Proiling).sql
 ```
-4. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
+4. Exporting data to PowerBI:
+   - `SQLQuery3(update date & Exporting data).sql`
+   
 5. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+   - `Clinical Data Analysis (P-3).pbix`
 
 ---
 
