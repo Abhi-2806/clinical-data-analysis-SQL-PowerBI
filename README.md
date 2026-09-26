@@ -101,8 +101,8 @@ Performed Data profiling & executed EDA pipeline natively within SSMS
         - Number of Death by Hospital Id
 
 
-![clinical data Analysis Dashboard-1](analysis-by-year.png)
-![clinical data Analysis Dashboard-2](hospital-analysis.png)
+![clinical data Analysis Dashboard-1]([analysis-by-year.png](https://github.com/Abhi-2806/clinical-data-analysis-SQL-PowerBI/blob/0e97b44e6880069ebf70979c48b45457a54a9d30/images/analysis-by-year.png))
+![clinical data Analysis Dashboard-2]([hospital-analysis.png](https://github.com/Abhi-2806/clinical-data-analysis-SQL-PowerBI/blob/0e97b44e68A80069ebf70979c48b45457a54a9d30/images/hospital-analysis.png))
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
